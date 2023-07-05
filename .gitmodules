@@ -1,0 +1,3 @@
+[submodule "Stomble-Frontend"]
+	path = Stomble-Frontend
+	url = https://github.com/WilliamDjo/Stomble-Frontend.git
